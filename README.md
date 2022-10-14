@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nishanth Reddy
 - 🌱 I’m currently learning Android development using kotlin
 - 💞️ I’m looking to collaborate on Android development, java, kotlin
-- 📫 How to reach me linkdin - NishanthReddy, Twitter - @Nishanth179
+- 📫 How to reach me [Linkdin - NishanthReddy ](https://www.linkedin.com/in/thenishanthreddy/), [Twitter - @Nishanth179](https://twitter.com/Nishanth179)
